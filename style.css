@@ -1,0 +1,46 @@
+body {
+  margin: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+header {
+  display: flex;
+  justify-content: flex-end; 
+}
+
+.infog a {
+  color: black;
+  padding-right: 13px;
+  font-size: 13px;
+  text-decoration: none;
+  cursor: pointer;
+}
+.infoi a {
+  color: black;
+  padding-right: 30px;
+  font-size: 13px;
+  text-decoration: none;
+}
+
+.logoh {
+  color: black;
+  padding-right: 55px;
+}
+
+img {
+  height: 230px;
+}
+.logog {
+  display: flex;
+  justify-content: center;
+  margin-top: 150px;
+
+}
+.butom {
+  height: 40px;
+  width: 450px;
+  border: solid .1px;
+  border-radius: 25px;
+  margin-left: 250px;
+  color: rgb(163, 159, 159);
+}
+
